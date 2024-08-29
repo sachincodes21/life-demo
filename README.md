@@ -1,4 +1,4 @@
 # life-demo
-this is my repository
+this is my first git repository.
 <br>
 author - sachin kumar
